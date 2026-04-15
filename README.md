@@ -18,7 +18,7 @@ Currently seeking an **entry-level position or internship** where I can contribu
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/germancgn)
 
-![Codewars](https://github.r2v.ch/codewars?user=unpin&stroke=gold)
+![Codewars](https://github.r2v.ch/codewars?user=germancgn&stroke=gold)
 
 <!--
 **unpin/unpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
