@@ -12,7 +12,7 @@ Currently seeking an **entry-level position or internship** where I can contribu
 - **Mobile / UI:** SwiftUI
 
 ## Projects
-- **Vocabulary Learning App:** Built with Vite + React, featuring onboarding, authentication, search, and social features.  
+- **Wordy – Vocabulary Learning App:** Built with **Next.js 16** (App Router), **React 19**, **TypeScript**, **Tailwind CSS v4**, **Drizzle ORM**, **PostgreSQL**, and **Supabase** for auth and database hosting. Integrates **Stripe** for payments and the **Anthropic SDK** (Claude API) for AI-powered features. Features dictionary lookup, bookmarks, collections, and fuzzy search.
 - **Movie Finder App:** React + Node.js app using external APIs for searching and managing favorites.  
 
 ## Connect with me
