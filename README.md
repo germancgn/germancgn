@@ -13,7 +13,7 @@ Currently seeking an **entry-level position or internship** where I can contribu
 
 ## Projects
 - **Wordy – Vocabulary Learning App:** Built with **Next.js 16** (App Router), **React 19**, **TypeScript**, **Tailwind CSS v4**, **Drizzle ORM**, **PostgreSQL**, and **Supabase** for auth and database hosting. Integrates **Stripe** for payments and the **Anthropic SDK** (Claude API) for AI-powered features. Features dictionary lookup, bookmarks, collections, and fuzzy search.
-- **Movie Finder App:** React + Node.js app using external APIs for searching and managing favorites.  
+- **Fitness App:** Built with **Next.js 16** (App Router), **React 19**, **TypeScript**, **Tailwind CSS v4**, **Drizzle ORM**, **PostgreSQL**, and **Supabase** for auth and database hosting. Integrates the **Open Food Facts API** for food data with local caching. Features barcode scanning (native BarcodeDetector API + ZXing fallback), food search, meal templates, daily calorie and macro tracking, and a multi-step onboarding flow with TDEE calculation
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/germancgn)
